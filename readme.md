@@ -1,0 +1,1 @@
+This solution is for a TechNet article.
