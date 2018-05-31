@@ -16,6 +16,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		readme.md = readme.md
 	EndProjectSection
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AnonymousTypesWithIterator", "AnonymousTypesWithIterator\AnonymousTypesWithIterator.vbproj", "{D45C126D-4B0F-4883-91F9-3E3984E0A9D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +40,10 @@ Global
 		{E77C54DB-BF3D-484A-A411-5F3D36531082}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E77C54DB-BF3D-484A-A411-5F3D36531082}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E77C54DB-BF3D-484A-A411-5F3D36531082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D45C126D-4B0F-4883-91F9-3E3984E0A9D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45C126D-4B0F-4883-91F9-3E3984E0A9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45C126D-4B0F-4883-91F9-3E3984E0A9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45C126D-4B0F-4883-91F9-3E3984E0A9D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
